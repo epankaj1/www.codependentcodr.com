@@ -1,4 +1,4 @@
-FROM pzelnip/codependentcodrbase:latest
+FROM epankaj1/codependentcodrbase:latest
 
 WORKDIR /build
 
